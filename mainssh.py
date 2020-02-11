@@ -67,7 +67,7 @@ def main():
               'spec_len': 250,
               'win_length': 400,
               'hop_length': 160,
-              'n_classes': 200,
+              'n_classes': 20,
               'sampling_rate': 10000,
               'batch_size': args.batch_size,
               'shuffle': True,
