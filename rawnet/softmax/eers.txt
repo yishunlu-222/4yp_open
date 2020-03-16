@@ -1,0 +1,103 @@
+epoch:1,val_eer:0.481733
+epoch:1,Eval eer:0.489183
+epoch:1,time spent:389.515077
+epoch:1,val_eer:0.480600
+epoch:1,Eval eer:0.486797
+epoch:1,time spent:248.650485
+epoch:2,val_eer:0.480600
+epoch:1,val_eer:0.127733
+epoch:1,Eval eer:0.100742
+epoch:1,time spent:8681.032405
+epoch:2,val_eer:0.089567
+epoch:2,Eval eer:0.065589
+epoch:2,time spent:8654.714193
+epoch:3,val_eer:0.078600
+epoch:3,Eval eer:0.060445
+epoch:3,time spent:8817.820963
+epoch:4,val_eer:0.069300
+epoch:4,Eval eer:0.051577
+epoch:4,time spent:9147.067611
+epoch:5,val_eer:0.064262
+epoch:5,Eval eer:0.048356
+epoch:5,time spent:9074.154303
+epoch:6,val_eer:0.061763
+epoch:6,Eval eer:0.046182
+epoch:6,time spent:8942.533203
+epoch:7,val_eer:0.061664
+epoch:7,Eval eer:0.046416
+epoch:7,time spent:8423.684571
+epoch:8,val_eer:0.059500
+epoch:8,Eval eer:0.047296
+epoch:8,time spent:8395.993069
+epoch:9,val_eer:0.057350
+epoch:9,Eval eer:0.044468
+epoch:9,time spent:8520.578316
+epoch:10,val_eer:0.056200
+epoch:10,Eval eer:0.046023
+epoch:10,time spent:8735.770710
+epoch:11,val_eer:0.053650
+epoch:11,Eval eer:0.038733
+epoch:11,time spent:8537.745890
+epoch:12,val_eer:0.052025
+epoch:12,Eval eer:0.039290
+epoch:12,time spent:8369.900958
+epoch:13,val_eer:0.049950
+epoch:13,Eval eer:0.041357
+epoch:13,time spent:8497.134230
+epoch:14,val_eer:0.050900
+epoch:14,Eval eer:0.039484
+epoch:14,time spent:8769.935766
+epoch:15,val_eer:0.049900
+epoch:15,Eval eer:0.038547
+epoch:15,time spent:8919.981369
+epoch:16,val_eer:0.050700
+epoch:16,Eval eer:0.040297
+epoch:16,time spent:8911.699281
+epoch:17,val_eer:0.047550
+epoch:17,Eval eer:0.036373
+epoch:17,time spent:8423.195756
+epoch:18,val_eer:0.048650
+epoch:18,Eval eer:0.041543
+epoch:18,time spent:8298.956541
+epoch:19,val_eer:0.047228
+epoch:19,Eval eer:0.039058
+epoch:19,time spent:8358.920423
+epoch:20,val_eer:0.047800
+epoch:20,Eval eer:0.040615
+epoch:20,time spent:8331.567060
+epoch:21,val_eer:0.047200
+epoch:21,Eval eer:0.038706
+epoch:21,time spent:8306.522046
+epoch:22,val_eer:0.046250
+epoch:22,Eval eer:0.039024
+epoch:22,time spent:8260.805541
+epoch:23,val_eer:0.047150
+epoch:23,Eval eer:0.040429
+epoch:23,time spent:8393.475477
+epoch:24,val_eer:0.046493
+epoch:24,Eval eer:0.040615
+epoch:24,time spent:8764.092830
+epoch:25,val_eer:0.046650
+epoch:25,Eval eer:0.037540
+epoch:25,time spent:9000.861639
+epoch:26,val_eer:0.046950
+epoch:26,Eval eer:0.040138
+epoch:26,time spent:9144.639102
+epoch:27,val_eer:0.044750
+epoch:27,Eval eer:0.039396
+epoch:27,time spent:8668.208104
+epoch:28,val_eer:0.045900
+epoch:28,Eval eer:0.041941
+epoch:28,time spent:8447.120166
+epoch:29,val_eer:0.044900
+epoch:29,Eval eer:0.042842
+epoch:29,time spent:8519.094771
+epoch:30,val_eer:0.045600
+epoch:30,Eval eer:0.040827
+epoch:30,time spent:8690.605646
+epoch:31,val_eer:0.044600
+epoch:31,Eval eer:0.041410
+epoch:31,time spent:8531.030702
+epoch:1,val_eer:0.047550
+epoch:1,Eval eer:0.036373
+epoch:1,time spent:881.622782
